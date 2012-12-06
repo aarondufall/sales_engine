@@ -1,5 +1,7 @@
 require "sales_engine/version"
+require "sales_engine/customer"
 
 module SalesEngine
-  # Your code goes here...
+ def self.startup
+ end
 end
